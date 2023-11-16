@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "epxress": "^0.0.1-security",
+    "mongodb": "^6.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
